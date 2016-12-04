@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "underscore-plus": "1.x",
-    "json-query": "~0.3.3"
+    "json-query": "~2.2.0"
   }
 }
